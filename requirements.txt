@@ -1,7 +1,7 @@
 streamlit
-transformers==4.28.1
-tokenizers==0.13.2
-torch==1.13.1
+transformers
+tokenizers
+torch
 datasets
 pandas
 scikit-learn
